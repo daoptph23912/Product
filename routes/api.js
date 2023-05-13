@@ -6,3 +6,4 @@ router.get('/product',Api.listProduct)
 // router.get('addUser',Api.addPro)
 // router.post('addUser',Api.addPro)
 module.exports=router
+///xãnksxksnxjsbjxbsj
